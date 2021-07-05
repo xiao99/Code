@@ -1,23 +1,23 @@
-<mxfile host="app.diagrams.net" modified="2021-07-05T03:34:01.027Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36" etag="-7uR3qUjRXf9XPvQkC-i" version="14.8.4" type="github">
+<mxfile host="app.diagrams.net" modified="2021-07-05T03:48:36.983Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36" etag="4lCS9bnzYWacQSld8awg" version="14.8.4" type="github">
   <diagram id="R2lEEEUBdFMjLlhIrx00" name="Page-1">
-    <mxGraphModel dx="1550" dy="844" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0" extFonts="Permanent Marker^https://fonts.googleapis.com/css?family=Permanent+Marker">
+    <mxGraphModel dx="1550" dy="844" grid="1" gridSize="8" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1200" pageHeight="1920" math="0" shadow="0" extFonts="Permanent Marker^https://fonts.googleapis.com/css?family=Permanent+Marker">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="C-vyLk0tnHw3VtMMgP7b-1" value="" style="edgeStyle=entityRelationEdgeStyle;endArrow=ERzeroToMany;startArrow=ERone;endFill=1;startFill=0;" parent="1" source="C-vyLk0tnHw3VtMMgP7b-24" target="C-vyLk0tnHw3VtMMgP7b-6" edge="1">
           <mxGeometry width="100" height="100" relative="1" as="geometry">
-            <mxPoint x="340" y="720" as="sourcePoint" />
-            <mxPoint x="440" y="620" as="targetPoint" />
+            <mxPoint x="364" y="732" as="sourcePoint" />
+            <mxPoint x="464" y="632" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="C-vyLk0tnHw3VtMMgP7b-12" value="" style="edgeStyle=entityRelationEdgeStyle;endArrow=ERzeroToMany;startArrow=ERone;endFill=1;startFill=0;" parent="1" target="C-vyLk0tnHw3VtMMgP7b-17" edge="1">
+        <mxCell id="C-vyLk0tnHw3VtMMgP7b-12" value="" style="edgeStyle=entityRelationEdgeStyle;endArrow=ERzeroToMany;startArrow=ERone;endFill=1;startFill=0;" parent="1" source="C-vyLk0tnHw3VtMMgP7b-24" target="C-vyLk0tnHw3VtMMgP7b-17" edge="1">
           <mxGeometry width="100" height="100" relative="1" as="geometry">
-            <mxPoint x="350" y="170" as="sourcePoint" />
-            <mxPoint x="460" y="205" as="targetPoint" />
+            <mxPoint x="374" y="182" as="sourcePoint" />
+            <mxPoint x="484" y="217" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="C-vyLk0tnHw3VtMMgP7b-2" value="cb_MaterialPriceAttachment（认质认价附件&#xa;）" style="shape=table;startSize=30;container=1;collapsible=1;childLayout=tableLayout;fixedRows=1;rowLines=0;fontStyle=1;align=center;resizeLast=1;" parent="1" vertex="1">
-          <mxGeometry x="510" y="20" width="250" height="130" as="geometry" />
+        <mxCell id="C-vyLk0tnHw3VtMMgP7b-2" value="cb_MaterialPriceAttachment|&#xa;（认质认价附件）" style="shape=table;startSize=30;container=1;collapsible=1;childLayout=tableLayout;fixedRows=1;rowLines=0;fontStyle=1;align=center;resizeLast=1;" parent="1" vertex="1">
+          <mxGeometry x="432" y="20" width="250" height="130" as="geometry" />
         </mxCell>
         <mxCell id="C-vyLk0tnHw3VtMMgP7b-3" value="" style="shape=partialRectangle;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;top=0;left=0;right=0;bottom=1;" parent="C-vyLk0tnHw3VtMMgP7b-2" vertex="1">
           <mxGeometry y="30" width="250" height="30" as="geometry" />
@@ -47,7 +47,7 @@
           <mxGeometry x="30" width="220" height="30" as="geometry" />
         </mxCell>
         <mxCell id="C-vyLk0tnHw3VtMMgP7b-13" value="cb_MaterialPriceApplyTaxItemWorking&#xa;（认质认价申报单税目明细编制版）" style="shape=table;startSize=30;container=1;collapsible=1;childLayout=tableLayout;fixedRows=1;rowLines=0;fontStyle=1;align=center;resizeLast=1;" parent="1" vertex="1">
-          <mxGeometry x="510" y="160" width="250" height="130" as="geometry" />
+          <mxGeometry x="950" y="136" width="250" height="130" as="geometry" />
         </mxCell>
         <mxCell id="C-vyLk0tnHw3VtMMgP7b-14" value="" style="shape=partialRectangle;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;top=0;left=0;right=0;bottom=1;" parent="C-vyLk0tnHw3VtMMgP7b-13" vertex="1">
           <mxGeometry y="30" width="250" height="30" as="geometry" />
@@ -76,8 +76,8 @@
         <mxCell id="C-vyLk0tnHw3VtMMgP7b-22" value="" style="shape=partialRectangle;overflow=hidden;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;" parent="C-vyLk0tnHw3VtMMgP7b-20" vertex="1">
           <mxGeometry x="30" width="220" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="C-vyLk0tnHw3VtMMgP7b-23" value="cb_MaterialPriceApply（认质认价申报单&#xa;）" style="shape=table;startSize=30;container=1;collapsible=1;childLayout=tableLayout;fixedRows=1;rowLines=0;fontStyle=1;align=center;resizeLast=1;" parent="1" vertex="1">
-          <mxGeometry x="120" y="120" width="250" height="100" as="geometry" />
+        <mxCell id="C-vyLk0tnHw3VtMMgP7b-23" value="cb_MaterialPriceApply&#xa;（认质认价申报单）" style="shape=table;startSize=30;container=1;collapsible=1;childLayout=tableLayout;fixedRows=1;rowLines=0;fontStyle=1;align=center;resizeLast=1;" parent="1" vertex="1">
+          <mxGeometry x="408" y="320" width="250" height="100" as="geometry" />
         </mxCell>
         <mxCell id="C-vyLk0tnHw3VtMMgP7b-24" value="" style="shape=partialRectangle;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;top=0;left=0;right=0;bottom=1;" parent="C-vyLk0tnHw3VtMMgP7b-23" vertex="1">
           <mxGeometry y="30" width="250" height="30" as="geometry" />
@@ -98,7 +98,7 @@
           <mxGeometry x="30" width="220" height="30" as="geometry" />
         </mxCell>
         <mxCell id="GNMlt4lICyYsORK2mgcK-3" value="cb_MaterialPriceCostConfirmTaxItemWorking&#xa;（认质认价完工费用确认单税目明细编制）" style="shape=table;startSize=30;container=1;collapsible=1;childLayout=tableLayout;fixedRows=1;rowLines=0;fontStyle=1;align=center;resizeLast=1;" vertex="1" parent="1">
-          <mxGeometry x="510" y="580" width="250" height="100" as="geometry" />
+          <mxGeometry x="904" y="776" width="250" height="100" as="geometry" />
         </mxCell>
         <mxCell id="GNMlt4lICyYsORK2mgcK-4" value="" style="shape=partialRectangle;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;top=0;left=0;right=0;bottom=1;" vertex="1" parent="GNMlt4lICyYsORK2mgcK-3">
           <mxGeometry y="30" width="250" height="30" as="geometry" />
@@ -119,7 +119,7 @@
           <mxGeometry x="30" width="220" height="30" as="geometry" />
         </mxCell>
         <mxCell id="GNMlt4lICyYsORK2mgcK-11" value="cb_MaterialPriceApplyToContract&#xa;（认质认价申报单与合同关系）" style="shape=table;startSize=30;container=1;collapsible=1;childLayout=tableLayout;fixedRows=1;rowLines=0;fontStyle=1;align=center;resizeLast=1;" vertex="1" parent="1">
-          <mxGeometry x="510" y="320" width="250" height="100" as="geometry" />
+          <mxGeometry x="950" y="328" width="250" height="100" as="geometry" />
         </mxCell>
         <mxCell id="GNMlt4lICyYsORK2mgcK-12" value="" style="shape=partialRectangle;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;top=0;left=0;right=0;bottom=1;" vertex="1" parent="GNMlt4lICyYsORK2mgcK-11">
           <mxGeometry y="30" width="250" height="30" as="geometry" />
@@ -140,7 +140,7 @@
           <mxGeometry x="30" width="220" height="30" as="geometry" />
         </mxCell>
         <mxCell id="GNMlt4lICyYsORK2mgcK-21" value="cb_MaterialPriceApplyDynamicCostFtRule&#xa;（认质认价申报单分摊规则明细）" style="shape=table;startSize=30;container=1;collapsible=1;childLayout=tableLayout;fixedRows=1;rowLines=0;fontStyle=1;align=center;resizeLast=1;" vertex="1" parent="1">
-          <mxGeometry x="510" y="440" width="290" height="100" as="geometry" />
+          <mxGeometry x="930" y="544" width="290" height="100" as="geometry" />
         </mxCell>
         <mxCell id="GNMlt4lICyYsORK2mgcK-22" value="" style="shape=partialRectangle;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;top=0;left=0;right=0;bottom=1;" vertex="1" parent="GNMlt4lICyYsORK2mgcK-21">
           <mxGeometry y="30" width="290" height="30" as="geometry" />
@@ -160,22 +160,118 @@
         <mxCell id="GNMlt4lICyYsORK2mgcK-27" value="AlterGUID GUID" style="shape=partialRectangle;overflow=hidden;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;" vertex="1" parent="GNMlt4lICyYsORK2mgcK-25">
           <mxGeometry x="30" width="260" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="GNMlt4lICyYsORK2mgcK-31" value="" style="edgeStyle=entityRelationEdgeStyle;endArrow=ERzeroToMany;startArrow=ERone;endFill=1;startFill=0;" edge="1" parent="1">
+        <mxCell id="GNMlt4lICyYsORK2mgcK-31" value="" style="edgeStyle=entityRelationEdgeStyle;endArrow=ERzeroToMany;startArrow=ERone;endFill=1;startFill=0;" edge="1" parent="1" source="C-vyLk0tnHw3VtMMgP7b-24" target="GNMlt4lICyYsORK2mgcK-15">
           <mxGeometry width="100" height="100" relative="1" as="geometry">
-            <mxPoint x="380" y="170" as="sourcePoint" />
-            <mxPoint x="510" y="395" as="targetPoint" />
+            <mxPoint x="404" y="182" as="sourcePoint" />
+            <mxPoint x="534" y="407" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="GNMlt4lICyYsORK2mgcK-32" value="" style="edgeStyle=entityRelationEdgeStyle;endArrow=ERzeroToMany;startArrow=ERone;endFill=1;startFill=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" target="GNMlt4lICyYsORK2mgcK-25">
+        <mxCell id="GNMlt4lICyYsORK2mgcK-32" value="" style="edgeStyle=entityRelationEdgeStyle;endArrow=ERzeroToMany;startArrow=ERone;endFill=1;startFill=0;" edge="1" parent="1" source="C-vyLk0tnHw3VtMMgP7b-24" target="GNMlt4lICyYsORK2mgcK-25">
           <mxGeometry width="100" height="100" relative="1" as="geometry">
-            <mxPoint x="360" y="170" as="sourcePoint" />
-            <mxPoint x="490" y="395" as="targetPoint" />
+            <mxPoint x="406" y="368" as="sourcePoint" />
+            <mxPoint x="868" y="528" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="GNMlt4lICyYsORK2mgcK-33" value="" style="edgeStyle=entityRelationEdgeStyle;endArrow=ERzeroToMany;startArrow=ERone;endFill=1;startFill=0;entryX=0;entryY=0.75;entryDx=0;entryDy=0;" edge="1" parent="1" target="GNMlt4lICyYsORK2mgcK-3">
+        <mxCell id="GNMlt4lICyYsORK2mgcK-33" value="" style="edgeStyle=entityRelationEdgeStyle;endArrow=ERzeroToMany;startArrow=ERone;endFill=1;startFill=0;entryX=0;entryY=0.75;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="C-vyLk0tnHw3VtMMgP7b-24" target="GNMlt4lICyYsORK2mgcK-3">
           <mxGeometry width="100" height="100" relative="1" as="geometry">
-            <mxPoint x="350" y="150" as="sourcePoint" />
-            <mxPoint x="500" y="495" as="targetPoint" />
+            <mxPoint x="374" y="162" as="sourcePoint" />
+            <mxPoint x="524" y="507" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="GNMlt4lICyYsORK2mgcK-34" value="cb_MaterialPriceApplyToContractWorking&#xa;（认质认价申报单与合同关系编制版）" style="shape=table;startSize=30;container=1;collapsible=1;childLayout=tableLayout;fixedRows=1;rowLines=0;fontStyle=1;align=center;resizeLast=1;" vertex="1" parent="1">
+          <mxGeometry x="50" y="20" width="250" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="GNMlt4lICyYsORK2mgcK-35" value="" style="shape=partialRectangle;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;top=0;left=0;right=0;bottom=1;" vertex="1" parent="GNMlt4lICyYsORK2mgcK-34">
+          <mxGeometry y="30" width="250" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="GNMlt4lICyYsORK2mgcK-36" value="PK" style="shape=partialRectangle;overflow=hidden;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;fontStyle=1;" vertex="1" parent="GNMlt4lICyYsORK2mgcK-35">
+          <mxGeometry width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="GNMlt4lICyYsORK2mgcK-37" value="AlterToContractGUID GUID NOT NULL " style="shape=partialRectangle;overflow=hidden;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;fontStyle=5;" vertex="1" parent="GNMlt4lICyYsORK2mgcK-35">
+          <mxGeometry x="30" width="220" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="GNMlt4lICyYsORK2mgcK-38" value="" style="shape=partialRectangle;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;top=0;left=0;right=0;bottom=0;" vertex="1" parent="GNMlt4lICyYsORK2mgcK-34">
+          <mxGeometry y="60" width="250" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="GNMlt4lICyYsORK2mgcK-39" value="FK1" style="shape=partialRectangle;overflow=hidden;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;" vertex="1" parent="GNMlt4lICyYsORK2mgcK-38">
+          <mxGeometry width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="GNMlt4lICyYsORK2mgcK-40" value="AlterGUID GUID" style="shape=partialRectangle;overflow=hidden;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;" vertex="1" parent="GNMlt4lICyYsORK2mgcK-38">
+          <mxGeometry x="30" width="220" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="GNMlt4lICyYsORK2mgcK-41" value="cb_MaterialPriceApplyWorking&#xa;（认质认价申报单编制版）" style="shape=table;startSize=30;container=1;collapsible=1;childLayout=tableLayout;fixedRows=1;rowLines=0;fontStyle=1;align=center;resizeLast=1;" vertex="1" parent="1">
+          <mxGeometry x="32" y="220" width="250" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="GNMlt4lICyYsORK2mgcK-42" value="" style="shape=partialRectangle;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;top=0;left=0;right=0;bottom=1;" vertex="1" parent="GNMlt4lICyYsORK2mgcK-41">
+          <mxGeometry y="30" width="250" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="GNMlt4lICyYsORK2mgcK-43" value="PK" style="shape=partialRectangle;overflow=hidden;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;fontStyle=1;" vertex="1" parent="GNMlt4lICyYsORK2mgcK-42">
+          <mxGeometry width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="GNMlt4lICyYsORK2mgcK-44" value="AlterGUID GUID NOT NULL " style="shape=partialRectangle;overflow=hidden;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;fontStyle=5;" vertex="1" parent="GNMlt4lICyYsORK2mgcK-42">
+          <mxGeometry x="30" width="220" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="GNMlt4lICyYsORK2mgcK-45" value="" style="shape=partialRectangle;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;top=0;left=0;right=0;bottom=0;" vertex="1" parent="GNMlt4lICyYsORK2mgcK-41">
+          <mxGeometry y="60" width="250" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="GNMlt4lICyYsORK2mgcK-46" value="FK1" style="shape=partialRectangle;overflow=hidden;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;" vertex="1" parent="GNMlt4lICyYsORK2mgcK-45">
+          <mxGeometry width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="GNMlt4lICyYsORK2mgcK-47" value="AlterGUID GUID" style="shape=partialRectangle;overflow=hidden;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;" vertex="1" parent="GNMlt4lICyYsORK2mgcK-45">
+          <mxGeometry x="30" width="220" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="GNMlt4lICyYsORK2mgcK-48" value="cb_MaterialPriceApplyProj&#xa;（认质认价成本归属表）" style="shape=table;startSize=30;container=1;collapsible=1;childLayout=tableLayout;fixedRows=1;rowLines=0;fontStyle=1;align=center;resizeLast=1;" vertex="1" parent="1">
+          <mxGeometry x="72" y="420" width="250" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="GNMlt4lICyYsORK2mgcK-49" value="" style="shape=partialRectangle;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;top=0;left=0;right=0;bottom=1;" vertex="1" parent="GNMlt4lICyYsORK2mgcK-48">
+          <mxGeometry y="30" width="250" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="GNMlt4lICyYsORK2mgcK-50" value="PK" style="shape=partialRectangle;overflow=hidden;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;fontStyle=1;" vertex="1" parent="GNMlt4lICyYsORK2mgcK-49">
+          <mxGeometry width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="GNMlt4lICyYsORK2mgcK-51" value="ApplyProjGUID GUID NOT NULL " style="shape=partialRectangle;overflow=hidden;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;fontStyle=5;" vertex="1" parent="GNMlt4lICyYsORK2mgcK-49">
+          <mxGeometry x="30" width="220" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="GNMlt4lICyYsORK2mgcK-52" value="" style="shape=partialRectangle;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;top=0;left=0;right=0;bottom=0;" vertex="1" parent="GNMlt4lICyYsORK2mgcK-48">
+          <mxGeometry y="60" width="250" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="GNMlt4lICyYsORK2mgcK-53" value="FK1" style="shape=partialRectangle;overflow=hidden;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;" vertex="1" parent="GNMlt4lICyYsORK2mgcK-52">
+          <mxGeometry width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="GNMlt4lICyYsORK2mgcK-54" value="AlterGUID GUID" style="shape=partialRectangle;overflow=hidden;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;" vertex="1" parent="GNMlt4lICyYsORK2mgcK-52">
+          <mxGeometry x="30" width="220" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="GNMlt4lICyYsORK2mgcK-56" value="&#xa;cb_MaterialPriceLinkAlter&#xa;（认质认价关联名称编号表）" style="shape=table;startSize=48;container=1;collapsible=1;childLayout=tableLayout;fixedRows=1;rowLines=0;fontStyle=1;align=center;resizeLast=1;" vertex="1" parent="1">
+          <mxGeometry x="464" y="768" width="304" height="116" as="geometry" />
+        </mxCell>
+        <mxCell id="GNMlt4lICyYsORK2mgcK-57" value="" style="shape=partialRectangle;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;top=0;left=0;right=0;bottom=1;" vertex="1" parent="GNMlt4lICyYsORK2mgcK-56">
+          <mxGeometry y="48" width="304" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="GNMlt4lICyYsORK2mgcK-58" value="PK" style="shape=partialRectangle;overflow=hidden;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;fontStyle=1;" vertex="1" parent="GNMlt4lICyYsORK2mgcK-57">
+          <mxGeometry width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="GNMlt4lICyYsORK2mgcK-59" value="MaterialPriceLinkAlterGUID GUID NOT NULL " style="shape=partialRectangle;overflow=hidden;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;fontStyle=5;" vertex="1" parent="GNMlt4lICyYsORK2mgcK-57">
+          <mxGeometry x="30" width="274" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="GNMlt4lICyYsORK2mgcK-60" value="" style="shape=partialRectangle;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;top=0;left=0;right=0;bottom=0;" vertex="1" parent="GNMlt4lICyYsORK2mgcK-56">
+          <mxGeometry y="78" width="304" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="GNMlt4lICyYsORK2mgcK-61" value="FK1" style="shape=partialRectangle;overflow=hidden;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;" vertex="1" parent="GNMlt4lICyYsORK2mgcK-60">
+          <mxGeometry width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="GNMlt4lICyYsORK2mgcK-62" value="AlterGUID GUID" style="shape=partialRectangle;overflow=hidden;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;" vertex="1" parent="GNMlt4lICyYsORK2mgcK-60">
+          <mxGeometry x="30" width="274" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="GNMlt4lICyYsORK2mgcK-63" value="" style="edgeStyle=entityRelationEdgeStyle;endArrow=ERzeroToMany;startArrow=ERone;endFill=1;startFill=0;entryX=0.986;entryY=0.96;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="C-vyLk0tnHw3VtMMgP7b-24" target="GNMlt4lICyYsORK2mgcK-60">
+          <mxGeometry width="100" height="100" relative="1" as="geometry">
+            <mxPoint x="640" y="360" as="sourcePoint" />
+            <mxPoint x="886" y="846" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="GNMlt4lICyYsORK2mgcK-64" value="" style="edgeStyle=entityRelationEdgeStyle;endArrow=ERzeroToMany;startArrow=ERone;endFill=1;startFill=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="C-vyLk0tnHw3VtMMgP7b-24" target="GNMlt4lICyYsORK2mgcK-38">
+          <mxGeometry width="100" height="100" relative="1" as="geometry">
+            <mxPoint x="416" y="373" as="sourcePoint" />
+            <mxPoint x="403.7439999999999" y="738.8" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
